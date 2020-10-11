@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krazy\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "C:\\Users\\krazy\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectPath": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\krazy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krazy\\gradebook\\src\\GradeBook\\obj\\",
+      "outputPath": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
