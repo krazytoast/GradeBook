@@ -4,12 +4,12 @@
     "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBOok.csproj": {
+    "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBOok.csproj",
-        "projectName": "GradeBOok",
-        "projectPath": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBOok.csproj",
+        "projectUniqueName": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBook.csproj",
+        "projectName": "GradeBook",
+        "projectPath": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\krazy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBOok.csproj": {
-                "projectPath": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBOok.csproj"
+              "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBook.csproj": {
+                "projectPath": "C:\\Users\\krazy\\Documents\\GitHub\\GradeBook\\src\\GradeBook\\GradeBook.csproj"
               }
             }
           }
