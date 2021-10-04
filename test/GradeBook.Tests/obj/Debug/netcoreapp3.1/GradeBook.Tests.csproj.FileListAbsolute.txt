@@ -94,3 +94,6 @@ C:\Users\krazy\Documents\GitHub\GradeBook\test\GradeBook.Tests\obj\Debug\netcore
 C:\Users\krazy\Documents\GitHub\GradeBook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.dll
 C:\Users\krazy\Documents\GitHub\GradeBook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.pdb
 C:\Users\krazy\Documents\GitHub\GradeBook\test\GradeBook.Tests\obj\Debug\netcoreapp3.1\GradeBook.Tests.genruntimeconfig.cache
+C:\Users\krazy\Documents\GitHub\GradeBook\test\GradeBook.Tests\bin\Debug\netcoreapp3.1\GradeBOok.exe
+C:\Users\krazy\Documents\GitHub\GradeBook\test\GradeBook.Tests\bin\Debug\netcoreapp3.1\GradeBOok.dll
+C:\Users\krazy\Documents\GitHub\GradeBook\test\GradeBook.Tests\bin\Debug\netcoreapp3.1\GradeBOok.pdb
