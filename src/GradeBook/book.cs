@@ -21,6 +21,7 @@ namespace GradeBook
             var result = 0.0;
             var highGrade = double.MinValue;
             var lowGrade = double.MaxValue;
+            
             foreach(var number in grades)
             {
                 lowGrade = Math.Min(number, lowGrade);
