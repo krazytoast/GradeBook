@@ -5,6 +5,15 @@ namespace GradeBook.Tests
 {
     public class BookTests
     {
+        // [Fact] testing...
+        // public void Test2()
+        // {
+        //     var book = new Book("");
+        //     book.AddGrade(105.0);
+
+        //     Assert.Equal(book, );
+        // }
+
         [Fact]
         public void BookCalculatesAnAverageGrade()
         {
