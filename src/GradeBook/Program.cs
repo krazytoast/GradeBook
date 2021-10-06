@@ -44,7 +44,6 @@ namespace GradeBook
             book.GetStatistics();
 
             var stats = book.GetStatistics();
-            book.Name = "";
 
             Console.WriteLine(Book.CATEGORY);
             Console.WriteLine($"For the book named {book.Name}");
