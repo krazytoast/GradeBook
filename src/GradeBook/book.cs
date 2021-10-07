@@ -20,8 +20,16 @@ namespace GradeBook
         }
     }
 
+    public abstract class BookBase : NamedObject
+    {
+        public BookBase(string name) : base(name)
+        {
 
-    public class Book : NamedObject
+        }
+        public abstract void AddGrade(double grade);
+    }
+
+    public class Book : BookBase
     {
         public Book(string name) : base(name)
         {
@@ -51,7 +59,7 @@ namespace GradeBook
             }
         }
 
-        public void AddGrade(double grade)
+        public override void AddGrade(double grade)
         {
             if(grade <= 100 && grade >= 0)
             {
