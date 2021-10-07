@@ -11,7 +11,6 @@ namespace GradeBook
             IBook book = new DiskBook("Zach's Grade Book");
             book.GradeAdded += OnGradeAdded;
 
-            //not in video. book.GetStatistics();
             EnterGrades(book);
 
             var stats = book.GetStatistics();
