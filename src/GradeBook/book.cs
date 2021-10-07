@@ -5,8 +5,18 @@ namespace GradeBook
 {
     public delegate void GradeAddedDelegate(object sender, EventArgs args);
 
+    public class NamedObject
+    {
+        public string Name
+        {
+            get;
+            set;
+            
+        }
+    }
 
-    public class Book
+
+    public class Book : NamedObject
     {
         public Book(string name)
         {
